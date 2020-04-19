@@ -4,7 +4,7 @@ Hi guy,
 
 My nickname is Shyllenno, and it means very shy.
 
-I am trying to enter in this fantastic Tech world. Coming from Finance field, I have chosen to pursue a new and exciting career, even though I am near my forties. It is never later to do that, is it? I hope not!
+I am trying to enter into this fantastic Tech world. Coming from Finance field, I have chosen to pursue a new and exciting career, even though I am near my forties. It is never later to do that, is it? I hope not!
 
 Right now, I am learning how to code in Python, I am still seeing everything on the console, I can't wait to start craeting User's Interfaces.
 
